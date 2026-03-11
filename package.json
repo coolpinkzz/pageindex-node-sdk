@@ -1,6 +1,6 @@
 {
   "name": "pageindex-node-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node-first TypeScript SDK for the PageIndex API",
   "license": "MIT",
   "author": "",
