@@ -1,7 +1,8 @@
 ## PageIndex Node SDK (`pageindex-node-sdk`)
 
 **Node-first TypeScript SDK for the [PageIndex](https://docs.pageindex.ai/) API.**  
-Wraps the core HTTP endpoints (PDF upload, document status/tree/OCR, listing, deletion, and Chat API with streaming).
+PageIndex is a vectorless, reasoning-based RAG framework that turns long, complex documents into a tree-structured index and lets LLMs perform agentic reasoning over that structure for context‑aware, traceable retrieval — with **no vector database** and **no chunking** required.  
+This SDK wraps the core HTTP endpoints (PDF upload, document status/tree/OCR, listing, deletion, and Chat API with streaming) for easy use from Node.js.
 
 ### Install
 
