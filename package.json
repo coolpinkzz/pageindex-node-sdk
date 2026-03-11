@@ -12,6 +12,17 @@
   "bugs": {
     "url": ""
   },
+  "keywords": [
+    "pageindex",
+    "pageindex-api",
+    "pageindex-sdk",
+    "pageindex-node",
+    "pageindex-typescript",
+    "rag",
+    "vectorless-rag",
+    "ocr",
+    "llm"
+  ],
   "type": "module",
   "exports": {
     ".": {
