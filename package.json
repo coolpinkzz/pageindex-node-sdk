@@ -3,14 +3,14 @@
   "version": "1.0.4",
   "description": "Node-first TypeScript SDK for the PageIndex API",
   "license": "MIT",
-  "author": "",
-  "homepage": "",
+  "author": "Pratik Yadav",
+  "homepage": "https://github.com/coolpinkzz/pageindex-node-sdk#readme",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/coolpinkzz/pageindex-node-sdk.git"
   },
   "bugs": {
-    "url": ""
+    "url": "https://github.com/coolpinkzz/pageindex-node-sdk/issues"
   },
   "keywords": [
     "pageindex",

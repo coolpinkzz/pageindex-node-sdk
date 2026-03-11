@@ -164,3 +164,10 @@ The request/response shapes are aligned with the official [PageIndex API referen
 ## License
 
 This project is licensed under the **MIT License**. See the `LICENSE` file for details.
+
+---
+
+### Repository
+
+Source code and issue tracking live on GitHub:  
+[`https://github.com/coolpinkzz/pageindex-node-sdk`](https://github.com/coolpinkzz/pageindex-node-sdk)
